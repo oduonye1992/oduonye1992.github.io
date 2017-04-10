@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Circular;
+    src: url('./fonts/circular/circular-medium.otf');
+}
+:not(.icon) {
+    font-family: Circular !important;
+    font-weight: normal !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #34495e !important;
+}
