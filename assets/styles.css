@@ -9,3 +9,16 @@
 h1, h2, h3, h4, h5, h6 {
     color: #34495e !important;
 }
+.toolbar-background{
+    background-color: #26418f !important;
+    color : white !important;
+}
+.toolbar-border-color{
+
+}
+.toolbar-text-color{
+    color : white !important;
+}
+.toolbar-active-color{
+
+}
